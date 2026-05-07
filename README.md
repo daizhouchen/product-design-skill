@@ -1,3 +1,13 @@
+<!-- daizhouchen-banner-begin -->
+<p align="center">
+  <img src="assets/hero.png" alt="product-design-skill" width="100%"/>
+</p>
+
+> **从头脑风暴到 PRD 产出全流程 · 7 种产品设计方法论 · ID 追踪耦合机制。**
+>
+> *brainstorming → PRD with 7 design methodologies.*
+<!-- daizhouchen-banner-end -->
+
 # Product Design Skill
 
 产品设计全流程 Claude Code Skill，从头脑风暴到 PRD 产出。
@@ -65,3 +75,9 @@ product-design/
 ## License
 
 MIT
+
+---
+<!-- daizhouchen-footer-begin -->
+
+Part of [**daizhouchen 实验集**](https://github.com/daizhouchen) → 一个 AI 应用创造者的实验现场。
+<!-- daizhouchen-footer-end -->
